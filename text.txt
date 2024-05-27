@@ -1,0 +1,7 @@
+
+git init
+git add README
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thakur311/Task_-learning_FSD60_2nd-approach.git
+git push -u origin main
