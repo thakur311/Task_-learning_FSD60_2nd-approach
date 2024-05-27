@@ -1,4 +1,7 @@
+git config --list
 
+git config --global user.name "GitbHub_username"
+git config --global user.email "Github_username"
 git init
 git add README
 git commit -m "first commit"
